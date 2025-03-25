@@ -5,12 +5,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/languages/top/alesmag/Frogger" alt="Top Language">
-  <img src="https://img.shields.io/github/repo-size/alesmag/Frogger" alt="Repo Size">
-  <img src="https://img.shields.io/github/last-commit/alesmag/Frogger" alt="Last Commit">
-</p>
-
-<p align="center">
   <strong>Built with:</strong>
 </p>
 
