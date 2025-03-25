@@ -26,7 +26,7 @@
 Frogger is a group project developed for the University of Cagliari. The game is a mockup of the original Frogger, where a frog needs to avoid obstacles and enemies trying to reach its homes. In this game, the frog can shoot projectiles
 to defeat enemies (who can also shoot). The game features simple graphics to adapt to any system, sound and other effects. 
 
-The project is implemented in C. It focuses on efficient memory management, processing and threading.
+The project is implemented in C. It focuses on efficient memory management and has both processing and threading versions.
 
 Disclaimer: this project has been developed mainly for Linux x86/x64 systems. 
 
